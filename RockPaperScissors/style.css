@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(32, 49, 57);
+}
+
+.title {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.game {
+    text-align: center;
+}
+
+.rockimg {
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 70px;
+}
+
+.paperimg {
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 70px;
+}
+
+.scissorsimg {
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 70px;
+}
+
+.ScoreDisplay {
+    font-size: 2rem;
+}
+
+.resetbutton {
+    border: 0px;
+    border-radius: 10px;
+    color: rgb(61, 23, 1);
+    background-color: rgb(65, 128, 210);
+    font-size: 1.5rem;
+}
